@@ -1,0 +1,36 @@
+
+MEETING #5
+
+Date and Time: October 10, 5:30pm
+Location: Armstrong 
+Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
+
+Discussion:
+1. Present the webpage to the advisors
+
+Improvement to be made:
+-> Bidding page:
+   - arranged according to the sku
+   
+-> Sign up page:
+   - tax code
+   - the coordinate of the place in map
+   - need to think about the database, where to store all the information
+   - validate the login 
+   
+-> Landing page is okay, just include the navigation that leads to different pages
+
+Interface between Team A and Team B:
+What information we want from team A
+
+
+End of October:
+The website must be working by the end of the month
+The distributor can login and start bidding
+The bidding page already works to allocate the lowest price
+The whole user interface should be working, from login to bidding to the lowest price
+
+
+Next week: Monday at 5pm
+
+
