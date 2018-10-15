@@ -5,8 +5,8 @@ Location: Armstrong
 Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
 
 Discussion:
-1. Further explanation on how to build up website by the clients (legal address required for registration, but it may not be the same as the warehouse address)
-2. Presented the first trial of landing page
+1. Further explanation on how to build up website by the clients (suppler’s name, legal address required for registration, but it may not be the same as the warehouse address, email/password, national registration number, addresses by location on map)
+2. Presented the first trial of landing page (after login, category/manufacturing page, so item/product lines and codes of suppliers selected by brand to receive bid of what supplier sells)
 3. Received a list of products that can be used as sample for the catalogue for the website and the logos required
 4. Added feature: need to have specialized master registry of a catalogue linked to their account, so it can filter the active bids and the distributors would only receive bids of the products in their catalogue
 
@@ -15,4 +15,4 @@ To Do:
 2. Submit the first progress report
 3. Come up with the draft of the website for other pages
 4. Documentation in Github
-
+5. Set up repositories on Github and tasks using git project
