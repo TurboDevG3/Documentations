@@ -6,44 +6,21 @@ Location: Armstrong
 Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
 
 Discussion:
-1. Present the webpage to the advisors
+1. Presented the webpage to the advisors
+2. Interface between Team A and Team B - What information we want from Team A?
 
-Improvement to be made:
--> Bidding page:
-   - arranged according to the sku
-   
--> Sign up page:
-   - tax code
-   - the coordinate of the place in map
-   - need to think about the database, where to store all the information
-   - validate the login 
-   
--> Landing page is okay, just include the navigation that leads to different pages
-
-Interface between Team A and Team B:
-What information we want from team A
-
-
-End of October:
-The website must be working by the end of the month
-The distributor can login and start bidding
-The bidding page already works to allocate the lowest price
-The whole user interface should be working, from login to bidding to the lowest price
-
-
-Next week: Monday at 5pm
-
-
-
-Meeting with the group:
-Feedback and update for each team member:
-
-
-Yahya: Figure out how to make the interface between bidding page and the order received from Team A works
-Nabil: Figure out the layout of the past bidding, pending and current bidding pages
-Aliah: Figure out where to store the database of people when they sign in. Fixing the problem of registration form, which now already works
-Thusha: Figure out the scaling of the webpage, the navigation bar and setting up the catalogue for the products by the next meeting
-
-
-
-
+To Do:
+1. Improvements to be made:
+   a. Bidding page - arrange according to the sku
+   b. Sign up page - tax code, coordinates of the place in map, think about the database where all the information will be stored and validate the login
+   c. Landing page - okay, just include the navigation that leads to different pages
+2. By the end of October:
+   a. The website must be working
+   b. The distributor should be able to login and start bidding
+   c. The bidding page should work to allocate the lowest price
+   d. The whole user interface should be working, from login to bidding to the lowest price
+3. Feedback and update for each member:
+   a. Yahya - Figure out how to make the interface between the bidding page and the order received from Team A to work
+   b. Nabil - Figure out the layout of the past bidding, pending and current bidding pages
+   c. Aliah - Figure out where to store the database of people when they sign in and fix the problem with the registration form, which now already works
+   d. Thusha - Figure out the scaling of the webpage, the navigation between each pages and setting up the catalogue for the products
