@@ -1,0 +1,60 @@
+MEETING #8
+
+Date and Time: October 22, 5:30pm
+Location: Armstrong 
+Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
+
+Discussion:
+Present the UI Interface
+
+Front end:
+Technology used : Bookstrap
+
+Front End - Back End
+
+Back End - don't directly call the database
+Since we wish to
+Push more for microservices, chop separately, rather than combine them together
+
+Comment by the Prof:
+Arrange them to the middle
+Left side should be dedicated to some extra menu
+
+Must come up with version that we want to show
+Try to resize the window and see if it's changing
+Setting up test cases - soon
+Must also try with tablet and desktop version
+
+
+Next time:
+Instead of adding more functionality, add up to more appearance
+Whatever we see, must be closer to what we wanna show
+Must converge 
+
+What we wanna test:
+This will get 1 cycle, from register, to receive bid accepted
+
+MOCK whatever calls are going to the backend
+Way to call the backend to front end
+
+Backend must be pre-programmed
+
+What kind of extra help we can give for target user: professional help
+Search for best practices
+
+Existing boostrap template 
+
+Features:
+Login page: popup style
+Homepage: Slideshow (for modern sites)
+Single page style of front end? - not so appropriate
+Separate navigation, within collection of activies 
+Tutorial (add trainings) 
+within pages, workflow that we can do in order
+Indicate the steps how far they progress
+Modern way: tutorial start automatically when it starts
+When visit page for the first time, then we dont overload the user
+
+
+Want to see the complete cycle, where to start and what to do next
+
