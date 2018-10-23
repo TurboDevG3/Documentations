@@ -1,60 +1,34 @@
 MEETING #8
 
-Date and Time: October 22, 5:30pm
+Date and Time: October 22, 5:00pm
 Location: Armstrong 
 Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
 
 Discussion:
-Present the UI Interface
+1. Presented the UI interface
+2. Bootstrap is the technology used for the front end
+3. Front end to back end
+4. Back end won't directly call the database
+5. If needed push more for microservices and chop parts separately, rather than combining them together
+6. Professor's feedback: 
+   a. Arrange items to the middle, so that left side is dedicated to some extra menu
+   b. Must come up with a presentable version
+   c. Try to resize the window and see if it's changing
+   d. Must also try with tablet and desktop version
+   e. Setting up test cases - soon
 
-Front end:
-Technology used : Bookstrap
-
-Front End - Back End
-
-Back End - don't directly call the database
-Since we wish to
-Push more for microservices, chop separately, rather than combine them together
-
-Comment by the Prof:
-Arrange them to the middle
-Left side should be dedicated to some extra menu
-
-Must come up with version that we want to show
-Try to resize the window and see if it's changing
-Setting up test cases - soon
-Must also try with tablet and desktop version
-
-
-Next time:
-Instead of adding more functionality, add up to more appearance
-Whatever we see, must be closer to what we wanna show
-Must converge 
-
-What we wanna test:
-This will get 1 cycle, from register, to receive bid accepted
-
-MOCK whatever calls are going to the backend
-Way to call the backend to front end
-
-Backend must be pre-programmed
-
-What kind of extra help we can give for target user: professional help
-Search for best practices
-
-Existing boostrap template 
-
-Features:
-Login page: popup style
-Homepage: Slideshow (for modern sites)
-Single page style of front end? - not so appropriate
-Separate navigation, within collection of activies 
-Tutorial (add trainings) 
-within pages, workflow that we can do in order
-Indicate the steps how far they progress
-Modern way: tutorial start automatically when it starts
-When visit page for the first time, then we dont overload the user
-
-
-Want to see the complete cycle, where to start and what to do next
-
+To do:
+1. Instead of adding more functionality, work on site appearance since whatever we see, must be closer to what we wanna show
+2. Website must converge 
+3. Test if it runs for one cycle - registering to receiving accepted bids
+4. Mock whatever calls are going to the backend, so the way to call the back end to front end where the backend must be pre-programmed
+5. Try getting extra professional help for web page design, so we can reach out to our target users, so search for best practices as well
+6. Use existing bootstrap template 
+7. Features to improve:
+   a. Login page in a popup style 
+   b. Homepage to have a slideshow for modern looks
+   c. Single page style of front end - not so appropriate 
+   d. Separate navigation, within collection of activities 
+   e. Tutorial (add trainings) perhaps in help page or to start automatically when they visit a page for the first time. That way we don't overload the users
+   f. Within pages, include workflow that of the order to indicate the steps and how far they progressed
+   g. Want to see the complete cycle, where to start and what to do next
