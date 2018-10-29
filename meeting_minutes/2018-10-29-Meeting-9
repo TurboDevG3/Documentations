@@ -1,0 +1,22 @@
+MEETING #9
+
+Date and Time: October 29 2018, 5:00pm
+Location: Armstrong 
+Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
+
+Discussion:
+1. Presented modified website
+2. Testing suites 
+3. Bootstrap using HTML/CSS and jQuery
+
+To do:
+1. Switch description of items with sku code for catalogue page
+2. Update category names on active bid page to match catalogue
+3. About page to include advisors later on and include brands logo at the bottom
+4. Indicate drop down menu for users when accessing bid history page
+5. Mimic tests from front end through selenium
+6. Think about including by programming the front end such that add future calls in the back end by mocking it  (substitute fake object as if its calling back end from front end) *Mockito* - javascript
+7. Query first few pages to issue the back end to display the first few products and for more, call again
+8. Evolve code base as if there’s a proper back end - Front end to call “mimicked” backend 
+9. Used fixed data for the front end to call it from the mocked backend (better appearance and handle data)
+10. Use React to provide more component base to build the graphical UI (instantiate for easy maintenance) or Vue.js can update front end variable without making explicit query
