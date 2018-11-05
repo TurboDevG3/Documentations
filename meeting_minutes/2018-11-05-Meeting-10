@@ -1,0 +1,41 @@
+MEETING #10
+
+Date and Time: November 5, 5:00pm
+Location: Armstrong 
+Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
+
+Discussion:
+<Feedback>
+For catelogue: for ever category, put photos associated with it
+Should not have large photos. Shouldn't be the slideshow because slideshow means the landing/welcome page
+At certain point, just wanna see smaller photos, for the rest of catalogues: for practical point of view
+
+Arrow changes, the shape of the arrow when it's up and down.
+
+The part of the application that is most frequently used? Catalogue/Active Bids
+
+Catalogue:  On top of based on category, also list by producers. It will be easier to sort them by the producers then category.
+            Suppliers -> Category 
+
+            Search Box 
+
+Active Bids: First list or the default table that's provided must already have semantics
+             How many bids expected?
+             Depends on the suppliers
+             The bids time: Max -- 48 hours
+             Can you change the bid after you you place the bid? - That's interesting but it'll be hard.
+             (Suggestion: within 48 hours it should be fine?)
+             The algorithm - select the lowest price
+             
+             For example, they get the lowest bid, but they deliver the goods 3days later than the date they should send the goods,
+             they should be penalized
+             
+             There should be a performance rate at the back ends.
+             
+             Tracking order? Confirm order, on the delivery, delivered.
+             
+             
+             
+
+
+
