@@ -44,6 +44,25 @@ Active Bids: First list or the default table that's provided must already have s
              
              
              
+Silenium: Testing
+            System level test - end to end
+            But now: User interface test
+            - Mock calls
+                        - provide data that we expect
+            - When test this with the backend, you can still use the test
 
+Administrative: Presentation
+                        - not necessary to develop your own slide
+                        - only 1 person does the presentation slide
+                        - powerpoint, not the big poster
+                        - present to the instructor and advisor
+                                    - Julio and Daniel
+                        - present the scope of the project to someone that doesn't know anything about the project
+                        - do livedemo, animated video
+                        - talk about the software engineering part
+                        - all the software tools used must be explained
+                        - including the algorithm
+                        
+       
 
 
