@@ -14,6 +14,8 @@ Arrow changes, the shape of the arrow when it's up and down.
 
 The part of the application that is most frequently used? Catalogue/Active Bids
 
+
+
 Catalogue:  On top of based on category, also list by producers. It will be easier to sort them by the producers then category.
             Suppliers -> Category 
 
@@ -62,6 +64,24 @@ Administrative: Presentation
                         - talk about the software engineering part
                         - all the software tools used must be explained
                         - including the algorithm
+                        
+ Service - get rid of the page
+ 
+ Login - Have the signup option
+ 
+ Catalogue - The slide show only exists at the start of catalgoue, once you clicked on option, 
+             the page should be: one for category, one by producer
+             Default: by producer (brand)
+ 
+ Active Bids - Category should match the actualy category
+ 
+ Bid History - Need a table, enough spacing
+               Hard coded the bids
+               Pending Bids first, then successful
+ 
+ Presentation           - Create a new flowchart, explain the whole logic behind it
+                        - Cultural, Professional way
+            
                         
        
 
