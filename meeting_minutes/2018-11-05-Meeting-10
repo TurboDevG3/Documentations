@@ -5,84 +5,37 @@ Location: Armstrong
 Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
 
 Discussion:
-<Feedback>
-For catelogue: for ever category, put photos associated with it
-Should not have large photos. Shouldn't be the slideshow because slideshow means the landing/welcome page
-At certain point, just wanna see smaller photos, for the rest of catalogues: for practical point of view
+1. Presented the updated version of the website
+2. Catalogue and Active Bid pages will be frequently visited
+3. Presented the developed test suites for user interface
 
-Arrow changes, the shape of the arrow when it's up and down.
-
-The part of the application that is most frequently used? Catalogue/Active Bids
-
-
-
-Catalogue:  On top of based on category, also list by producers. It will be easier to sort them by the producers then category.
-            Suppliers -> Category 
-
-            Search Box 
-
-Active Bids: First list or the default table that's provided must already have semantics
-             How many bids expected?
-             Depends on the suppliers
-             The bids time: Max -- 48 hours
-             Can you change the bid after you you place the bid? - That's interesting but it'll be hard.
-             (Suggestion: within 48 hours it should be fine?)
-             The algorithm - select the lowest price
-             
-             For example, they get the lowest bid, but they deliver the goods 3days later than the date they should send the goods,
-             they should be penalized
-             
-             There should be a performance rate at the back ends.
-             
-             Tracking order? Confirm order, on the delivery, delivered.
-             
-             Automated update on the inventory
-             
-             Psychological enforcement - The email confirmation
-             
-             How to avoid having 200 bids? 
-             What they see: the volume that they can supply and the bid that's closest to the deadline
-             Popup: No one has place a bid on this product yet
-             
-             
-             
-Silenium: Testing
-            System level test - end to end
-            But now: User interface test
-            - Mock calls
-                        - provide data that we expect
-            - When test this with the backend, you can still use the test
-
-Administrative: Presentation
-                        - not necessary to develop your own slide
-                        - only 1 person does the presentation slide
-                        - powerpoint, not the big poster
-                        - present to the instructor and advisor
-                                    - Julio and Daniel
-                        - present the scope of the project to someone that doesn't know anything about the project
-                        - do livedemo, animated video
-                        - talk about the software engineering part
-                        - all the software tools used must be explained
-                        - including the algorithm
-                        
- Service - get rid of the page
- 
- Login - Have the signup option
- 
- Catalogue - The slide show only exists at the start of catalgoue, once you clicked on option, 
-             the page should be: one for category, one by producer
-             Default: by producer (brand)
- 
- Active Bids - Category should match the actualy category
- 
- Bid History - Need a table, enough spacing
-               Hard coded the bids
-               Pending Bids first, then successful
- 
- Presentation           - Create a new flowchart, explain the whole logic behind it
-                        - Cultural, Professional way
-            
-                        
-       
-
-
+To do:
+1. Catalogue page:
+   a. For every category, put associated photos with it
+   b. There shouldn’t be a slideshow for every category because this means it’s the main page
+   c. Put smaller photos for the rest of the categories for practical point of view instead of large photos
+   d. Include the option to have skus sorted by producers along with categories. Also, maybe even include a search bar.
+2. Bidding History page: the arrow should change to show up and down  
+3. Active Bids: 
+   a. First list or the default table that's provided must already have semantics
+   b. Consider the total number of bids expected, which depend on suppliers
+   c. The max bid time is 48hrs
+   d. An interesting idea is to have the option of changing a bid after its placed, but it'll be hard. Maybe try changing bids within 48hrs.
+4. Backend:
+   a. Remember that the algorithm required is to select the lowest bid
+   b. If they get the lowest bid, but they deliver the goods late, then they should be penalized, so have a performance rate set up at the back end - Track order, confirm order, follow up on the delivery
+   c. Automated update on the inventory to avoid seeing too many bids. Hence, they should see bids based on the volume that they can supply and the bid that's closest to the deadline. Perhaps, a popup on items that no one placed a bid on yet.
+   d. For psychological enforcement - email confirmation
+5. Selenium Testing: System level test end to end required by mocking calls that provide the expected data. These tests that can be used to test the backend once it’s set up.
+6. Administrative: Presentation on Nov 27th from 5:30pm-6:00pm
+   a. Not necessary to develop own slides, so one person can prepare the presentation slides
+   b. Can be done in powerpoint with no poster
+   c. Will be presented to the instructor and advisors, but should present as if presenting the scope of the project to someone that doesn't know anything about the project
+   d. Do live demo, but with an animated video
+   e. Talk about the software engineering part, so all the software tools used must be explained including the algorithm
+   f. Create a new flowchart that explains the entire logic and the presentation should be in a cultural/professional way
+7. Team:
+   a. Aliah - Get rid of the service page and add signup option at login
+   b. Thusha - The slide show only exists at the start of the catalogue page, with the options to search skus by category or producers. 
+   c. Yahya - Categories in the active bid page should match with the actual categories
+   d. Nabil - Need a table with enough spacing on the bid history page. For now, hard code the bids and arrange the table such that the pending bids appear first then the successful bids.
