@@ -5,45 +5,26 @@ Location: Armstrong
 Present: Yahya Azami, Nabil Ersyad Noor Eddie Putera, Thusha Sivapatharajah & Aliah Mohd Nazarudin
 
 Meeting
-1. Presenting the 'cleaner version' of website
-2. Receive feedback on website:
-    2.1   Login as default or registration
-          - The button should be the link not a long button 
-          - For example: login page, then the register button should just be a link
-    2.2   Landing Page
-          - Add one more slide show on statistics
-          - placement of the bar and the text should de distant enough : % resolution 
-          
-    2.3   'Update Information' should be in separate entity
-          - Should be under 'Your Profile'
-    
-    2.4   Initial catalogue page, should allow distributor to upload all the skus documents 
-          We should be able to sort that and make it appear as our current catalogue page
-          - Catalogue page must have search button if they wanna search for a specific skus
-          - They should be able to update or delete their catalogue
-          - Category should be named just like normal grocery store: bread, rice, body care etc
-          
-3. Feedback on the presentation:
-    - Use similar background for the website in presentation
-    - Use similar font, remember: BRANDING 
-        - Font should be minimum size 20
-    - Create a section for PROJECT MANAGEMENT 
-       - different version of websites
-       - update when we meet the customer to work on the changes
-    - Create another section: TECHNOLOGICAL OVERVIEW
-       - What technology used
-       - UI : why do we decide on this?
-       - Why UI important?
-       - Why we arrange things certain way
-       - provide screenshot
-    - MORE ANIMATIONS!
-      
-  
-          
-    
+Discussion:
+1. Presented the ‘cleaner version’ of the website
 
-
-
-
-
-
+To do:
+1. Login page: 
+   a. Login as default or registration
+   b. Button for redirecting client should be a link instead
+   c. Suggested to have login page as default, so the register button should be a link  
+2. Landing page:
+   a. Add slide(s) to show statistics
+   b. Placement of slide bar should be distant from slide text - fix for % resolution
+3. Update information page: should be in separate entity - “Profile”
+4. Catalogue Page: 
+   a. Use general category names like in grocery stores: juice, soup, etc. (Walmart as reference)
+   b. Initial catalogue page should allow distributors to upload all the skus where our site can sort that and make it appear like our current catalogue page
+   c. Include a search button to search for specific skus if needed
+   d. Catalogue page can be updated to add or remove skus
+5. Presentation: 
+   a. Use similar background for the website and presentation
+   b. Use similar font, remember ‘branding’ and font size of minimum 20
+   c. Create a section for “Project Management” to cover different version of the websites and to include meetings with the clients
+   d. Create a section for “Technological Overview” to mention the technology used and to explain the decisions regarding UI (why UI is important, why items are arranged a certain way, etc.)
+   e. Provide screenshots where necessary along with Animations!
