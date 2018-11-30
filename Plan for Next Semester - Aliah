@@ -1,0 +1,4 @@
+Can use SSL layer for authentication process. 
+SSL Layer is between the application and network layer, to establish secured connection 
+https://www.sitepoint.com/how-to-use-ssltls-with-node-js/
+
